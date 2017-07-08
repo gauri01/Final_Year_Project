@@ -1,0 +1,13 @@
+The main objective of the project is to develop a LBAS (Location Based Alert System) 
+based application to handle the following requirements: 
+To alert the users through an alarm when the user reaches
+ near a preset location, To retrieve the users current 
+location coordinates (Latitudes and Longitudes), To allows users
+ to set their target location and save that target to the list, 
+Allows user to delete and edit the alarms, 
+To allow user to the put the reminder text along with the alarm. 
+The final system allow user to easily activate alarm in the mobile device. 
+Based on the saved location on the mobile device,
+ alarm will ring automatically and display remainder message 
+when the user reaches the target location. This mobile alarm 
+service will act as assistance for the frequent travellers to visit new places.

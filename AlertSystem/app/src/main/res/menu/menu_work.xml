@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/atm" android:title="@string/atm"/>
+        <item android:id="@+id/bank" android:title="@string/bank"/>
+        <item android:id="@+id/breakfast" android:title="@string/breakfast"/>
+        <item android:id="@+id/buying" android:title="@string/buying"/>
+        <item android:id="@+id/clg" android:title="@string/clg"/>
+        <item android:id="@+id/dinner" android:title="@string/dinner"/>
+        <item android:id="@+id/drop" android:title="@string/drop"/>
+        <item android:id="@+id/eat" android:title="@string/eat"/>
+        <item android:id="@+id/exchange" android:title="@string/exchange"/>
+        <item android:id="@+id/emergency" android:title="@string/emergency"/>
+        <item android:id="@+id/fill_petrol" android:title="@string/fill_petrol"/>
+        <item android:id="@+id/food_parcel" android:title="@string/food_parcel"/>
+        <item android:id="@+id/gym" android:title="@string/gym"/>
+        <item android:id="@+id/hostel" android:title="@string/hostel"/>
+        <item android:id="@+id/hospital" android:title="@string/lunch"/>
+        <item android:id="@+id/ice_creame" android:title="@string/ice_creame"/>
+        <item android:id="@+id/library" android:title="@string/library"/>
+        <item android:id="@+id/lunch" android:title="@string/lunch"/>
+        <item android:id="@+id/market" android:title="@string/market"/>
+        <item android:id="@+id/meeting" android:title="@string/meeting"/>
+        <item android:id="@+id/movie" android:title="@string/movie"/>
+        <item android:id="@+id/multiplex" android:title="@string/multiplex"/>
+        <item android:id="@+id/nursery" android:title="@string/nursery"/>
+        <item android:id="@+id/office" android:title="@string/office"/>
+        <item android:id="@+id/parcel" android:title="@string/parcel"/>
+        <item android:id="@+id/temple" android:title="@string/temple"/>
+        <item android:id="@+id/shopping" android:title="@string/shopping"/>
+        <item android:id="@+id/servicing" android:title="@string/servicing"/>
+
+    </group>
+</menu>

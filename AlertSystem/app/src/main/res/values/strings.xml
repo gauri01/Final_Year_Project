@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Alert System</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Add Task</string>
+
+    <string-array name="question">
+        <item>Which is your favorite actor?</item>
+        <item>Which is your favorite holiday destination?</item>
+        <item>What is your first school name?</item>
+        <item>Which is your favorite game?</item>
+        <item>Which is your favorite movie?</item>
+
+    </string-array>
+
+    <string name="atm">ATM Opration</string>
+    <string name="bank">Banking transaction</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="buying">Buying</string>
+    <string name="clg">Collage</string>
+    <string name="dinner">Dinner</string>
+    <string name="drop">Dropping</string>
+    <string name="eat">Eating</string>
+    <string name="exchange">Exchange</string>
+    <string name="emergency">Emergency</string>
+    <string name="fill_petrol">Fill Petrol</string>
+    <string name="food_parcel">Food Parcel</string>
+    <string name="gym">Gym</string>
+    <string name="hostel">Hostel</string>
+    <string name="hospital">Hospital</string>
+    <string name="ice_creame">Ice creame Parlor</string>
+    <string name="library">Library</string>
+    <string name="lunch">Lunch</string>
+    <string name="market">Marketing</string>
+    <string name="meeting">Meeting</string>
+    <string name="movie">Movie</string>
+    <string name="multiplex">Multiplex</string>
+    <string name="nursery">Nursery</string>
+    <string name="office">Office</string>
+    <string name="parcel">Parcel</string>
+    <string name="temple">Temple</string>
+    <string name="shopping">Shopping</string>
+    <string name="servicing">Servicing</string>
+
+    <string name="about_us">
+        The project requires the user enter the location at which he/she has
+        to complete the task.
+        Whenever user passes by that location,
+        the application reminds the user of the task enabling the user to
+        complete the task as promptly as possible.
+         The technology used for tracking location is GPS.
+         GPS is Global Positioning System that enables the user to know the location.
+
+    </string>
+
+
+
+</resources>
